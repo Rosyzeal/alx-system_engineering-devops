@@ -1,2 +1,3 @@
-0n *[school]* school
+#!/bin/bash
+0 *[school]* school
 !:mime School data
